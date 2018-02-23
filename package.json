@@ -1,0 +1,10 @@
+{
+  "name": "products-mock-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
