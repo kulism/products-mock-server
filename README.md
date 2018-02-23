@@ -8,7 +8,7 @@ Run `npm install`
 
 Run `npm start`
 
-Verify that server is running be checking the console output.
+Verify that server is running by checking the console output.
 
 ### Getting the data
 
@@ -25,6 +25,3 @@ GET /products/:id
 ```
 
 For more advanced queries please visit [JSON Server](https://github.com/typicode/json-server) home.
-
-
-
